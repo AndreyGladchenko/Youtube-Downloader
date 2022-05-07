@@ -10,9 +10,9 @@ pip install pytube
 ```
 
 ## Use Case
-**Can be ran by double clicking the file
+**Can be ran by double clicking the file**
 
-**Note:
+**Note:**
 Video is downloaded in the same directory as the .py file
 
 Enter Link
