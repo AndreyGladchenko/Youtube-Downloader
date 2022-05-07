@@ -17,7 +17,7 @@ Video is downloaded in the same directory as the .py file
 
 Enter Link
 
-(![image](https://user-images.githubusercontent.com/60777727/167256874-e3f31c5a-3b6b-47f3-bf80-d8815199956a.png)
+![image](https://user-images.githubusercontent.com/60777727/167257051-ddc86702-d6b7-4ae8-a2e6-113adc25684c.png)
 
 Hit Download
 
