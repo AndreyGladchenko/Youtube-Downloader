@@ -9,17 +9,12 @@ Run
 pip install pytube
 ```
 
-Can be ran by double clicking the file
+## Use Case
+**Can be ran by double clicking the file
 
-Note:
-
+**Note:
 Video is downloaded in the same directory as the .py file
 
-Pytube may be outdated and possible fixes to the expression can be found here:
-> https://stackoverflow.com/questions/68945080/pytube-exceptions-regexmatcherror-get-throttling-function-name-could-not-find/71903013#71903013
-
-
-## Use Case
 Enter Link
 
 (![image](https://user-images.githubusercontent.com/60777727/167256874-e3f31c5a-3b6b-47f3-bf80-d8815199956a.png)
@@ -31,4 +26,8 @@ Hit Download
 MP4 File will be in the same directory as .py file
 
 ![image](https://user-images.githubusercontent.com/60777727/167256907-28894522-f0f1-4af0-96c9-a124cd6739a3.png)
+
+## Issues
+Pytube may be outdated and possible fixes to the expression can be found here:
+> https://stackoverflow.com/questions/68945080/pytube-exceptions-regexmatcherror-get-throttling-function-name-could-not-find/71903013#71903013
 
